@@ -11,10 +11,19 @@ body {
     background: #eee;
 }
 
+.resize-gifs {
+    width: 250px;
+}
+
 #lead-banner img{
+    padding-top: 0;
     width: 100%;
     border: 1px solid black;
     border-radius: 10px;
+}
+
+* {
+    padding-top: 10px;
 }
 
 #timeline li {
