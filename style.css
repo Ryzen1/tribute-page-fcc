@@ -1,0 +1,22 @@
+.no-click {
+    pointer-events: none;
+}
+
+body {
+    margin-top: 60px;
+}
+
+.container {
+    text-align: center;
+    background: #eee;
+}
+
+#lead-banner img{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#timeline li {
+    list-style-type: none;
+}
